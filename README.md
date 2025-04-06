@@ -1,5 +1,5 @@
 # Minecraft
-simple minecraft made with C++ and OpenGL made it one long file
+simple minecraft made with C++ and OpenGL made in one long file
 
 ## Controls
 **WASD** = movement
