@@ -1,6 +1,8 @@
 # Minecraft
 simple minecraft made with C++ and OpenGL made in one long file
 
+
+
 ## Controls
 **WASD** = movement
 **shift** = down
@@ -17,9 +19,14 @@ simple minecraft made with C++ and OpenGL made in one long file
 5. glass
 
 
+## Play
+
+
 ```bash
 g++ main.cpp -o main -lglfw -lGLEW -lGL -ldl -lGLU && ./main
 ```
+
+
 
 
 ![gameplay](mc_example.png)
